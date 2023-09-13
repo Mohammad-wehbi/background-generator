@@ -1,0 +1,20 @@
+h1{
+    padding: 50px;
+    font-size: 100px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-style: italic;
+    text-shadow: 3px 3px 6px white;
+}
+body{
+    background: linear-gradient(to right,rgb(235, 6, 6),rgb(0, 39, 34));
+    text-align: center;
+}
+h2{
+    padding: 40px;
+    font-size: 35px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-style: italic;
+}
+h3{
+    padding: 7px;
+}
